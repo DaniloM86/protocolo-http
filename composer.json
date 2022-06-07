@@ -1,0 +1,14 @@
+{
+    "description": "ferramenta pessoal para utilizar no dia a dia como programador",
+    "authors": [
+        {
+            "name": "Danilo Magalhães De Melo",
+            "email": "contato@programadorweb.site"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}
